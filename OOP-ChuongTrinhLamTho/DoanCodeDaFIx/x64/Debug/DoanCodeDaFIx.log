@@ -1,0 +1,12 @@
+﻿  BaiTho.cpp
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(61,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(66,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(74,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(98,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(106,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\BaiTho.cpp(117,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ThatNgonBatCu.cpp
+C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\DoanCodeDaFIx\ThatNgonBatCu.cpp(4,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\x64\Debug\DoanCodeDaFIx.exe not found or not built by the last incremental link; performing full link
+  DoanCodeDaFIx.vcxproj -> C:\Users\ROG STRIX\source\repos\DoanCodeDaFIx\x64\Debug\DoanCodeDaFIx.exe
