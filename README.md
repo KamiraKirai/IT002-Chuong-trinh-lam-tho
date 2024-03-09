@@ -3,6 +3,8 @@
 Ấn "Code" rồi ấn "Download ZIP" để tải code về
 
 Đề bài:
+
+
 Xây dựng chương trình mô phỏng sáng tác thơ với các mô tả như sau: 
 Thơ là một loại hình nghệ thuật của ngôn từ, âm thanh của thơ có vần có điệu nhịp nhàng. Lời lẽ của thơ ngắn gọn, hàm chứa, súc tích. Về hình thức, thơ có nhiều thể loại, có thể kể đến như : Lục Bát, Song Thất Lục Bát, Đường Luật Thất Ngôn Bát Cú,... 
 Luật thơ của thể thơ là toàn bộ những quy tắc về số câu, số tiếng, cách gieo vần, phép hài thanh, ngắt nhịp… được khái quát theo một kiểu mẫu nhất định. Ở đây, chỉ tạm xét đến số câu, số tiếng và cách gieo vần.
